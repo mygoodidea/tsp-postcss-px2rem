@@ -1,0 +1,28 @@
+{
+  "name": "tsp-postcss-px2rem",
+  "version": "1.0.0",
+  "description": "rootValue 初始值,默认75px\r precision 经度,默认6位",
+  "main": "index.js",
+  "dependencies": {
+    "postcss": "^6.0.1"
+  },
+  "devDependencies": {
+    "postcss": "^6.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mygoodidea/tsp-postcss-px2rem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mygoodidea/tsp-postcss-px2rem/issues"
+  },
+  "homepage": "https://github.com/mygoodidea/tsp-postcss-px2rem#readme"
+}
