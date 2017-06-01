@@ -1,12 +1,13 @@
 {
   "name": "tsp-postcss-px2rem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "rootValue 初始值,默认75px\r precision 经度,默认6位",
   "main": "index.js",
   "dependencies": {
     "postcss": "^6.0.1"
   },
   "devDependencies": {
+    "assert": "^1.4.1",
     "postcss": "^6.0.1"
   },
   "scripts": {
